@@ -30,3 +30,14 @@
 ---
 
 ## BP 3 — Suppression trackers (`feat/remove-trackers`)
+
+**Implémentation :** Suppression de 3 scripts tiers simulés (Google Tag Manager, Facebook Pixel, Twitter) dans `frontend/index.html`.
+
+**Mesures :**
+| Métrique | Avant | Après |
+|---|---|---|
+| Requêtes | 31 | 28 |
+| Ressources | 2,4 Mo | 1,7 Mo |
+| Erreurs console | 1 (fbq not defined) | 0 |
+
+**Constat :** La suppression de 3 trackers réduit de -0,7 Mo les ressources et élimine les erreurs console. Sur MAL avec 65+ requêtes pub (ad-delivery, doubleclick, inMobi...), l'impact serait massif.

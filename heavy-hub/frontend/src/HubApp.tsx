@@ -215,7 +215,7 @@ function PortalHeader({ unreadCount }: { unreadCount: number }) {
 function ContentCard({ item, compact = false }: { item: DisplayContentItem; compact?: boolean }) {
   return (
     <article className={compact ? 'hub-content-card compact' : 'hub-content-card'}>
-      <img src={item.heroAsset} alt={item.title} />
+      <img src={item.heroAsset} alt={item.title} loading="lazy" />
       <div className="hub-card-copy">
         <div className="hub-meta-row">
           <span>{item.track}</span>
@@ -406,7 +406,7 @@ function ContentPage({ items }: { items: DisplayContentItem[] }) {
   return (
     <div className="hub-stack">
       <section className="hub-detail-hero">
-        <img src={current.heroAsset} alt={current.title} />
+        <img src={current.heroAsset} alt={current.title} loading="lazy"/>
         <article className="hub-detail-card">
           <p className="hub-eyebrow">Detail du contenu</p>
           <h1>{current.title}</h1>
@@ -604,7 +604,7 @@ function ProfilePage({ profile, items }: { profile: ProfilePayload; items: Displ
     <div className="hub-stack">
       <section className="hub-profile-layout">
         <article className="hub-panel hub-profile-hero">
-          <img src={profile.avatar} alt={profile.name} />
+          <img src={profile.avatar} alt={profile.name} loading="lazy"/>
           <div>
             <p className="hub-eyebrow">Profil</p>
             <h1>{profile.name}</h1>

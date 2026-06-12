@@ -5,7 +5,7 @@
     "format": "video",
     "level": "debutant",
     "duration": 18,
-    "heroAsset": "/assets/hub-content-1.svg",
+    "heroAsset": "/assets/hub-content-1.webp",
     "teaser": "Une ressource accompagnee avec resume, modules, supports et reperes pratiques pour suivre le parcours dans la duree.",
     "body": "Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session. Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session.",
     "modules": [
@@ -64,7 +64,7 @@
     "format": "fiche",
     "level": "intermediaire",
     "duration": 25,
-    "heroAsset": "/assets/hub-content-2.svg",
+    "heroAsset": "/assets/hub-content-2.webp",
     "teaser": "Une ressource accompagnee avec resume, modules, supports et reperes pratiques pour suivre le parcours dans la duree.",
     "body": "Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session. Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session.",
     "modules": [
@@ -123,7 +123,7 @@
     "format": "atelier",
     "level": "avance",
     "duration": 32,
-    "heroAsset": "/assets/hub-content-3.svg",
+    "heroAsset": "/assets/hub-content-3.webp",
     "teaser": "Une ressource accompagnee avec resume, modules, supports et reperes pratiques pour suivre le parcours dans la duree.",
     "body": "Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session. Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session.",
     "modules": [
@@ -182,7 +182,7 @@
     "format": "video",
     "level": "debutant",
     "duration": 39,
-    "heroAsset": "/assets/hub-content-1.svg",
+    "heroAsset": "/assets/hub-content-1.webp",
     "teaser": "Une ressource accompagnee avec resume, modules, supports et reperes pratiques pour suivre le parcours dans la duree.",
     "body": "Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session. Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session.",
     "modules": [
@@ -241,7 +241,7 @@
     "format": "fiche",
     "level": "intermediaire",
     "duration": 46,
-    "heroAsset": "/assets/hub-content-2.svg",
+    "heroAsset": "/assets/hub-content-2.webp",
     "teaser": "Une ressource accompagnee avec resume, modules, supports et reperes pratiques pour suivre le parcours dans la duree.",
     "body": "Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session. Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session.",
     "modules": [
@@ -300,7 +300,7 @@
     "format": "atelier",
     "level": "avance",
     "duration": 53,
-    "heroAsset": "/assets/hub-content-3.svg",
+    "heroAsset": "/assets/hub-content-3.webp",
     "teaser": "Une ressource accompagnee avec resume, modules, supports et reperes pratiques pour suivre le parcours dans la duree.",
     "body": "Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session. Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session.",
     "modules": [
@@ -359,7 +359,7 @@
     "format": "video",
     "level": "debutant",
     "duration": 60,
-    "heroAsset": "/assets/hub-content-1.svg",
+    "heroAsset": "/assets/hub-content-1.webp",
     "teaser": "Une ressource accompagnee avec resume, modules, supports et reperes pratiques pour suivre le parcours dans la duree.",
     "body": "Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session. Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session.",
     "modules": [
@@ -418,7 +418,7 @@
     "format": "fiche",
     "level": "intermediaire",
     "duration": 67,
-    "heroAsset": "/assets/hub-content-2.svg",
+    "heroAsset": "/assets/hub-content-2.webp",
     "teaser": "Une ressource accompagnee avec resume, modules, supports et reperes pratiques pour suivre le parcours dans la duree.",
     "body": "Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session. Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session.",
     "modules": [
@@ -477,7 +477,7 @@
     "format": "atelier",
     "level": "avance",
     "duration": 74,
-    "heroAsset": "/assets/hub-content-3.svg",
+    "heroAsset": "/assets/hub-content-3.webp",
     "teaser": "Une ressource accompagnee avec resume, modules, supports et reperes pratiques pour suivre le parcours dans la duree.",
     "body": "Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session. Le detail du contenu rassemble objectifs, progression, ressources et livrables afin de donner un cadre complet a chaque session.",
     "modules": [
